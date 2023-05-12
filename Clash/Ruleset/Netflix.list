@@ -1,8 +1,15 @@
 # 内容：Netflix
 # 数量：40条
 USER-AGENT,Argo*
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb
+
+# regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
 DOMAIN-KEYWORD,dualstack.apiproxy-
+
+# regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
@@ -40,3 +47,9 @@ IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
+
+DOMAIN-SUFFIX,netflix.ca
+DOMAIN-SUFFIX,etflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,flxvideo.net

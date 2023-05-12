@@ -30,38 +30,7 @@ DOMAIN-SUFFIX,fastly-terrarium.com
 # astly Video.js CDN
 DOMAIN-SUFFIX,zencdn.net
 
-# netflix
-
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,netflix.ca
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,etflixinvestor.com
-DOMAIN-SUFFIX,netflixtechblog.com
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,flximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxsearch.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,flxvideo.net
-# netflix DNS test
-DOMAIN-SUFFIX,netflixdnstest1.com
-DOMAIN-SUFFIX,netflixdnstest2.com
-DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest4.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest6.com
-DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-SUFFIX,netflixdnstest10.com
-# netflix regular expression 正则
-# regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-# regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-# netflix Full
-DOMAIN,netflix.com.edgesuite.net
-
-# tiktok
+# tiktok 优先级可能错误
 
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
@@ -80,8 +49,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 
-
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,fonts.googleapis.com
 
