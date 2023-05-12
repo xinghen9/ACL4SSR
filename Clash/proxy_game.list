@@ -1,0 +1,25 @@
+# 代理列表
+
+# 原神外服
+DOMAIN,overseauspider.yuanshen.com
+DOMAIN,osasiadispatch.yuanshen.com
+DOMAIN,oseurodispatch.yuanshen.com
+DOMAIN,osusadispatch.yuanshen.com
+DOMAIN,dispatchosglobal.yuanshen.com
+DOMAIN,autopatchhk.yuanshen.com
+
+DOMAIN-SUFFIX,hoyoverse.com
+
+# 星际公民
+DOMAIN-SUFFIX,robertsspaceindustries.com
+
+# r星
+
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,videos-rockstargames-com.akamaized.net
+
+# 
+DOMAIN,dl.steam.clngaa.com
