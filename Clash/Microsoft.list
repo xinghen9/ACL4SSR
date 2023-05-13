@@ -80,3 +80,5 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+# 微软中国 影响newbing跳转
+IP-CIDR,202.89.233.101/32,no-resolve
