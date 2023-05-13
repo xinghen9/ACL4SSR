@@ -8,18 +8,5 @@ DOMAIN,osusadispatch.yuanshen.com
 DOMAIN,dispatchosglobal.yuanshen.com
 DOMAIN,autopatchhk.yuanshen.com
 
-DOMAIN-SUFFIX,hoyoverse.com
-
-# ÐÇ¼Ê¹«Ãñ
-DOMAIN-SUFFIX,robertsspaceindustries.com
-
-# rÐÇ
-
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rsg.sc
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,videos-rockstargames-com.akamaized.net
-
-# 
+# steam cn?
 DOMAIN,dl.steam.clngaa.com
