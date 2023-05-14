@@ -1,6 +1,7 @@
 # 内容：Steam
 # 数量：19条
 DOMAIN,steambroadcast.akamaized.net
+# steam 下载
 # DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steampipe.akamaized.net

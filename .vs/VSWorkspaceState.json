@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Clash"
+    "\\Clash",
+    "\\Clash\\config"
   ],
-  "SelectedNode": "\\Clash\\ProxyMedia.list",
+  "SelectedNode": "\\Clash\\config\\ACL4SSR_Online_Full_xinghen9.ini",
   "PreviewInSolutionExplorer": false
 }
